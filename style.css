@@ -11,6 +11,7 @@
 #container {
 	background-color: rgb(250, 250, 249);
 	overflow: auto;
+	height: 60px
 }
 
 #nav {
@@ -21,7 +22,7 @@
 
 #content {
 	background-color: white;
-	width: 115%;
+	width: 67%;
 	float: left;
 	min-height: 500px;
 	padding-left: 2%;
